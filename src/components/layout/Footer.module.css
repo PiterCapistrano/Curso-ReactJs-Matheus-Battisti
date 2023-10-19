@@ -1,0 +1,18 @@
+.roda{
+  margin-top: 100%;
+  margin-bottom: 0;
+}
+.list{
+  justify-content: center;
+  display: flex;
+  align-items: center;
+}
+.list li{
+  margin: 0 1em;
+  list-style: none;
+}
+
+.list svg{
+  font-size: 1.5em;
+  cursor: pointer;
+}
